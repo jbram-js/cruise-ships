@@ -1,0 +1,18 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "Manchester Codes cruise-ships track",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbram-js"
+  },
+  "author": "Joseph Bramwell",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
